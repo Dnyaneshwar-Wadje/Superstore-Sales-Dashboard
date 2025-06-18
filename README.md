@@ -32,8 +32,8 @@ This project is a Power BI dashboard I built using the popular **Superstore data
 ## 📁 Project Files
 
 - `Superstore_Dashboard.pbix` – The Power BI report file
-- `Superstore_Sales.csv` – The raw dataset
-- `Superstore_Dashboard.pdf` – A PDF version of the dashboard
+- `Superstore_Sales.xlsx` – The raw dataset
+- `Preview_Superstore_Dashboard.pdf` – A PDF version of the dashboard
 
 
 ---
