@@ -33,7 +33,7 @@ This project is a Power BI dashboard I built using the popular **Superstore data
 
 - `Superstore_Dashboard.pbix` – The Power BI report file
 - `Superstore_Sales.csv` – The raw dataset
-- `sample_super_store.pdf` – A PDF version of the dashboard
+- `super_store.pdf` – A PDF version of the dashboard
 
 
 ---
